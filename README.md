@@ -30,6 +30,7 @@ Compare employee salaries using LAG() and LEAD().
 Identify first and last salary values within departments.
 
 📊 Key SQL Skills Demonstrated
+
 Database Creation
 Table Creation
 Primary Keys
